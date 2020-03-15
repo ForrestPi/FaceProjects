@@ -15,7 +15,7 @@
 
 [MNN Version](https://github.com/SyGoing/LFFD-MNN)
 
-
+[OpenVINO Version](https://github.com/SyGoing/LFFD-OpenVINO)
 
 
 
