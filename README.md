@@ -10,6 +10,7 @@ some algorithms about face projects
 
 ## Refernce
 [insightface](https://github.com/deepinsight/insightface)    
+[VarGFaceNet](https://github.com/zma-c137/VarGFaceNet)    
 [HelloFace](https://github.com/becauseofAI/HelloFace)    
 [SeetaFace2](https://github.com/seetafaceengine/SeetaFace2)    
 [MobileFace](https://github.com/becauseofAI/MobileFace)    
