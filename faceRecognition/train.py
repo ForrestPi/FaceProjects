@@ -7,7 +7,7 @@ import torch.optim as optim
 
 from tqdm import tqdm
 
-from model import FaceMobileNet, ResIRSE
+from model import FaceMobileNet
 from model.metric import ArcFace, CosFace
 from model.loss import FocalLoss
 from dataset import load_data
