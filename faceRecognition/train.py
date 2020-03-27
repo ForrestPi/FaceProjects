@@ -8,6 +8,7 @@ import torch.optim as optim
 from tqdm import tqdm
 
 from model import FaceMobileNet
+from model import IR_SE_50
 from model.metric import ArcFace, CosFace
 from model.loss import FocalLoss
 from dataset import load_data
@@ -20,7 +21,7 @@ device = conf.device
 
 # Network Setup
 if conf.backbone == 'resnet':
-    net = ResIRSE(embedding_size, conf.drop_ratio).to(device)
+    net = IR_SE_50(embedding_size).to(device)
 else:
     net = FaceMobileNet(embedding_size).to(device)
 
