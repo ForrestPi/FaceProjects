@@ -13,6 +13,7 @@ some algorithms about face projects
 
 ## Refernce
 [insightface](https://github.com/deepinsight/insightface)    
+[arcface-pytorch](https://github.com/ronghuaiyang/arcface-pytorch)    
 [face.evoLVe.PyTorch](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch)    
 [VarGFaceNet](https://github.com/zma-c137/VarGFaceNet)    
 [HelloFace](https://github.com/becauseofAI/HelloFace)    
