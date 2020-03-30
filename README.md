@@ -18,6 +18,7 @@ some algorithms about face projects
 [VarGFaceNet](https://github.com/zma-c137/VarGFaceNet)    
 [HelloFace](https://github.com/becauseofAI/HelloFace)    
 [SeetaFace2](https://github.com/seetafaceengine/SeetaFace2)    
+[awesome-face](https://github.com/polarisZhao/awesome-face)    
 [MobileFace](https://github.com/becauseofAI/MobileFace)    
 [MaskInsightface](https://github.com/bleakie/MaskInsightface)    
 [LFFD](https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices)    
