@@ -15,3 +15,9 @@
 end-to-end的三维人脸重建. Feng et al. ECCV2018[3](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yao_Feng_Joint_3D_Face_ECCV_2018_paper.pdf);     
 Aaron et al. ICCV2017[4](http://openaccess.thecvf.com/content_ICCV_2017/papers/Jackson_Large_Pose_3D_ICCV_2017_paper.pdf)    
 人脸细节重建. Trigeorgis et al. CVPR2017[5](https://ibug.doc.ic.ac.uk/media/uploads/documents/normal_estimation__cvpr_2017_-4.pdf)
+
+
+## projects
+[Deep3DFaceReconstruction](https://github.com/microsoft/Deep3DFaceReconstruction)    
+[3DDFA](https://github.com/cleardusk/3DDFA)    
+[face3d](https://github.com/YadiraF/face3d)    
